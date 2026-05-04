@@ -1,0 +1,80 @@
+<?php
+/**
+ * @copyright       (c) 2000-2026 XOOPS Project (https://xoops.org)
+ * @license             GNU GPL 2 (https://www.gnu.org/licenses/gpl-2.0.html)
+ * _LANGCODE    pt
+ * _CHARSET     UTF-8
+ */
+define('_MI_SYSTEM_NAME', 'Sistema');
+define('_MI_SYSTEM_DESC', 'Para administração das configurações principais do site.');
+define('_MI_SYSTEM_BNAME2', 'Menu do Utilizador');
+define('_MI_SYSTEM_BNAME3', 'Entrar');
+define('_MI_SYSTEM_BNAME4', 'Pesquisar');
+define('_MI_SYSTEM_BNAME5', 'Conteúdo pendente');
+define('_MI_SYSTEM_BNAME6', 'Menu Principal');
+define('_MI_SYSTEM_BNAME7', 'Informações do site');
+define('_MI_SYSTEM_BNAME8', 'Quem está online');
+define('_MI_SYSTEM_BNAME9', 'Melhores publicadores');
+define('_MI_SYSTEM_BNAME10', 'Novos membros');
+define('_MI_SYSTEM_BNAME11', 'Comentários recentes');
+define('_MI_SYSTEM_BNAME12', 'Opções de notificação');
+define('_MI_SYSTEM_BNAME13', 'Temas');
+define('_MI_SYSTEM_ADMENU1', 'Banners');
+define('_MI_SYSTEM_ADMENU2', 'Blocos');
+define('_MI_SYSTEM_ADMENU3', 'Grupos');
+define('_MI_SYSTEM_ADMENU5', 'Módulos');
+define('_MI_SYSTEM_ADMENU6', 'Preferências');
+define('_MI_SYSTEM_ADMENU7', 'Emoticons');
+define('_MI_SYSTEM_ADMENU9', 'Classificações de utilizador');
+define('_MI_SYSTEM_ADMENU10', 'Editar utilizador');
+define('_MI_SYSTEM_ADMENU11', 'Enviar email aos utilizadores');
+define('_MI_SYSTEM_ADMENU12', 'Encontrar utilizadores');
+define('_MI_SYSTEM_ADMENU13', 'Imagens');
+define('_MI_SYSTEM_ADMENU14', 'Avatares');
+define('_MI_SYSTEM_ADMENU15', 'Modelos');
+define('_MI_SYSTEM_ADMENU16', 'Comentários');
+define('_MI_SYSTEM_PREFERENCE_BREAK_GENERAL', 'Configurações gerais');
+define('_MI_SYSTEM_PREFERENCE_TIPS', 'Ajuda on-line?');
+define('_MI_SYSTEM_PREFERENCE_TIPS_DSC', 'Isso lhe dá dicas e ajuda on-line');
+define('_MI_SYSTEM_PREFERENCE_ICONS', 'Ícones');
+define('_MI_SYSTEM_PREFERENCE_BREADCRUMB', 'Pão ralado');
+define('_MI_SYSTEM_PREFERENCE_BREAK_ACTIVE', 'Secção activa');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_AVATARS', 'Avatares ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_BANNERS', 'Banners ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_BLOCKSADMIN', '');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_COMMENTS', 'Comentários ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_FILEMANAGER', 'Gerenciador de arquivos ativo');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_GROUPS', '');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_IMAGES', 'Gerenciador de Imagens Ativas');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_MAILUSERS', 'Usuários de e-mail ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_MODULESADMIN', '');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_PREFERENCES', '');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_SMILIES', 'Smilies ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_TPLSETS', '');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_USERRANK', 'Classificações de usuários ativas');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_USERS', 'Usuários ativos');
+define('_MI_SYSTEM_PREFERENCE_ACTIVE_MAINTENANCE', 'Manutenção ativa');
+define('_MI_SYSTEM_PREFERENCE_BREAK_PAGER', 'Número de linhas a serem exibidas na administração');
+define('_MI_SYSTEM_PREFERENCE_AVATARS_PAGER', 'Número de avatares a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_BANNERS_PAGER', 'Número de banners a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_COMMENTS_PAGER', 'Número de comentários a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_GROUPS_PAGER', 'Número de grupos a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_IMAGES_PAGER', 'Número de imagens a serem exibidas por página');
+define('_MI_SYSTEM_PREFERENCE_SMILIES_PAGER', 'Número de smilies a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_USERRANKS_PAGER', 'Número de classificações a serem exibidas por página');
+define('_MI_SYSTEM_PREFERENCE_USERS_PAGER', 'Número de usuários a serem exibidos por página');
+define('_MI_SYSTEM_PREFERENCE_BREAK_EDITOR', 'Configurações do Editor');
+define('_MI_SYSTEM_PREFERENCE_BLOCKS_EDITOR', 'Editor para blocos:');
+define('_MI_SYSTEM_PREFERENCE_BLOCKS_EDITOR_DSC', '');
+define('_MI_SYSTEM_PREFERENCE_COMMENTS_EDITOR', 'Editor para comentários:');
+define('_MI_SYSTEM_PREFERENCE_COMMENTS_EDITOR_DSC', '');
+define('_MI_SYSTEM_PREFERENCE_GENERAL_EDITOR', 'Editor para todos os módulos:');
+define('_MI_SYSTEM_PREFERENCE_GENERAL_EDITOR_DSC', '');
+define('_MI_SYSTEM_PREFERENCE_ANONPOST', '');
+define('_MI_SYSTEM_PREFERENCE_REDIRECT', '');
+define('_MI_SYSTEM_PREFERENCE_JQUERY_THEME', 'tema jQuery');
+define('_MI_DEFAULT_NOTIFICATION_METHOD_DISABLE', 'Desativar temporariamente');
+define('_MI_DEFAULT_NOTIFICATION_METHOD_EMAIL', 'E-mail');
+define('_MI_DEFAULT_NOTIFICATION_METHOD_PM', 'Mensagem privada');
+define('_MI_SYSTEM_MENUS_ACTIVE', 'Ativar sistema de menu');
+define('_MI_SYSTEM_MENUS_ACTIVE_DESC', 'Habilite o sistema de gerenciamento de menu integrado para navegação no site');
